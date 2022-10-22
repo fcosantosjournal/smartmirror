@@ -18,7 +18,7 @@ class Core
 
     public function getTemp()
     {
-        $url = 'https://api.openweathermap.org/data/2.5/weather?q=Aveiro,pt&APPID=c32a3bc565d0615e1cfca530c5e706c3';
+        $url = 'https://api.openweathermap.org/data/2.5/weather?q=Aveiro,pt&APPID=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
         $json = file_get_contents($url);
         $data = json_decode($json, true);
         

@@ -14,7 +14,9 @@
         Author: Francisco Santos
         Email: contato@fcosantos.pt
         Website: https://fcosantos.pt
-        Github:     
+        Github: https://github.com/fcosantosjournal
+        LinkedIn: https://www.linkedin.com/in/fcosantosinfo/
+        License: MIT
     -->
     <head>
         <meta charset="UTF-8">
