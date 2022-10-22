@@ -1,5 +1,7 @@
 # Smart Mirror - Simple way to do!
 
+![image](https://user-images.githubusercontent.com/54321059/197360799-5e302d03-6d87-4813-8b28-82d99d809205.png)
+
 This system was created in just one day!
 
 So, if You want to contribute with more block's or add more functionalities, please let me know!
