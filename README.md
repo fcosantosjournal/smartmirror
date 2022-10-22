@@ -1,6 +1,6 @@
 # Smart Mirror - Simple way to do!
 
-![image](https://user-images.githubusercontent.com/54321059/197360799-5e302d03-6d87-4813-8b28-82d99d809205.png)
+![image](https://user-images.githubusercontent.com/54321059/197360884-90e5317f-e2a0-4999-ae83-e0638ce9c620.png)
 
 This system was created in just one day!
 
